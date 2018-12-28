@@ -4,4 +4,21 @@
     <string name="digite_senha">Digite sua senha</string>
     <string name="botao_logar">Logar</string>
     <string name="nao_tem_conta">Não tem conta? Cadastre-se</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="btn_cadastrar">cadastrar</string>
+
+    <!-- MENSAGENS DE ERROS -->
+    <string name="erro_autenticao_usuario">Erro ao autenticar o usuário</string>
+    <string name="erro_cadastro">Erro ao cadastrar </string>
+
+
+    <!-- MENSAGENS DE SUCESSO -->
+    <string name="sucesso_cadastrar_usuario">Usuário cadastrado com sucesso</string>
+
+    <!-- VALIDAÇÃO-->
+    <string name="informe_email_senha">Informe o e-mail e senha</string>
+    <string name="informe_todos_campos">Informe todos os campos</string>
+    <string name="informe_senha_mais_forte">Informe uma senha mais forte</string>
+    <string name="informe_email_valido">Informe um e-mail válido</string>
+    <string name="email_ja_cadastrado">Este e-mail já se encontra cadastrado</string>
 </resources>
